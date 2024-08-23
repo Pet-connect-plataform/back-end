@@ -1,3 +1,0 @@
-[submodule "back-end/pet"]
-	path = back-end/pet
-	url = https://github.com/guiguizan/petconnect-boarding.git
