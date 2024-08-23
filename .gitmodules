@@ -1,0 +1,4 @@
+[submodule "micro-service/petconnect-boarding"]
+	path = micro-service/petconnect-boarding
+	url = https://github.com/guiguizan/petconnect-boarding.git
+	branch = master
